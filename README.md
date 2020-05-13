@@ -1,11 +1,11 @@
 
 # My Awesome Project
 
-An awesome project I did for the class. It does a useful thing or prokes thought on an issue.
+An awesome project I did for the class. It does a useful thing or provokes thought on an issue.
 
 ## Installation
 
-INstall the requests library, enter this line in Bash:
+Install the requests library, enter this line in Bash:
 
     pip install requests
 
